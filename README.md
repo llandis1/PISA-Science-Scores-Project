@@ -25,3 +25,5 @@ The following linear regression model could be used to determine schools or coun
 -0.4374*SC064Q03TA + 44.6893*RATCMP2 + 0.3340*SC004Q06NA + 0.0338*SC004Q03TA + 0.6850*SC048Q02NA + 414.7062=SCIENCE SCORE
 
 With data from the 2022 PISA (the test was postponed by a year because of the pandemic), the model can be refined. 
+
+[Tableau presentation of this project](https://public.tableau.com/app/profile/lisa.landis/viz/PISAScience/Story1)
