@@ -8,16 +8,15 @@ If there is a relationship between certain school factors from the questionnaire
 
 To determine if there a  relationship between school factors and science scores, Pearson correlation analysis will be followed by the generation of a linear regression model. Inputting the values of the linear regression model's predictor variables could generate a proxy for the PISA science scores during the 3 year interim between tests.
 
-Data Sources:
-https://www.kaggle.com/datasets/prasertk/pisa-scores-20062018
-
+Data Sources:  
+https://www.kaggle.com/datasets/prasertk/pisa-scores-20062018  
 https://www.kaggle.com/datasets/dilaraahan/pisa-2018-school-questionnaire
 
 Five variables were chosen to be included as independent variables in the multiple regression linear model based on having the highest absolute value of correlation coefficients.
 
-36% of the variance in 2018 PISA science scores can be explained through an OLS Regression Model factoring in the following variables: 
-SC064Q03TA (-0.44): Proportion of students' parents participating in local school government
-RATCMP2 (44.69): Proportion of available computers connected to the Internet
+36% of the variance in 2018 PISA science scores can be explained through an OLS Regression Model factoring in the following variables:  
+SC064Q03TA (-0.44): Proportion of students' parents participating in local school government  
+RATCMP2 (44.69): Proportion of available computers connected to the Internet  
 SC004Q06NA (0.33): Number of data projectors available in the school
 SC004Q03TA (0.03) Number of computers for students connected to the Internet
 SC048Q02NA (0.69): Percentage of students in the school with special needs
