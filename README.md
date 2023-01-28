@@ -6,7 +6,7 @@ PISA (Programme for International Student Assessment) created by the Organisatio
 
 If there is a relationship between certain school factors from the questionnaire and PISA 2018 Science scores, the values of those factors in the future could be used to predict PISA Science scores. Support for science education could then be provided to be those schools or countries predicted to have low science achievement.
 
-To determine if there a  relationship between school factors and science scores, Pearson correlation analysis will be followed by the generation of a linear regression model. Inputting the values of the linear regression model's predictor variables could generate a proxy for the PISA science scores during the 3 year interim between tests.
+To determine if there a  relationship between school factors and science scores, Pearson correlation analysis was followed by the generation of a linear regression model. Inputting the values of the linear regression model's predictor variables could generate a proxy for the PISA science scores during the 3 year interim between tests.
 
 Data Sources:  
 https://www.kaggle.com/datasets/prasertk/pisa-scores-20062018  
