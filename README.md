@@ -16,12 +16,12 @@ Five variables were chosen to be included as independent variables in the multip
 
 36% of the variance in 2018 PISA science scores can be explained through an OLS Regression Model factoring in the following variables:  
 SC064Q03TA (-0.44): Proportion of students' parents participating in local school government  
-RATCMP2 (44.69): Proportion of available computers connected to the Internet  
-SC004Q06NA (0.33): Number of data projectors available in the school
-SC004Q03TA (0.03) Number of computers for students connected to the Internet
+RATCMP2 (44.69): Proportion of available computers connected to the Internet    
+SC004Q06NA (0.33): Number of data projectors available in the school  
+SC004Q03TA (0.03) Number of computers for students connected to the Internet  
 SC048Q02NA (0.69): Percentage of students in the school with special needs
 
-The following linear regression model could be used to determine schools or countries in need of science education support in the 3 year interim between PISA tests:
+The following linear regression model could be used to determine schools or countries in need of science education support in the 3 year interim between PISA tests:  
 -0.4374*SC064Q03TA + 44.6893*RATCMP2 + 0.3340*SC004Q06NA + 0.0338*SC004Q03TA + 0.6850*SC048Q02NA + 414.7062=SCIENCE SCORE
 
 With data from the 2022 PISA (the test was postponed by a year because of the pandemic), the model can be refined. 
